@@ -1,7 +1,9 @@
-1 -  yarn init -y // iniciando o projeto do backend
+1 - yarn init -y // iniciando o projeto do backend
 2 - yarn add express // o express tem todo o pacote para trabalhar com as chamadas
 3 - yarn add nodemon  -D // reinicia o servidor quando detecta uma modificação no código
 4 - yarn add knex // utilizado para realizar as qury builder, abordagem diferente do select * from
 5 - yarn add sqlite3 // drive do banco sqlite
 6 - npx knex init // cria o arquivo de configurações de acesso ao banco de dados escolhido
 7 - yarn add cors 
+8 - yarn add celebrate // trabalha com as validações de nome, email, etc...
+9 - yarn add jest // framework para testes
