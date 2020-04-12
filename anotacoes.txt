@@ -3,7 +3,8 @@
 3 - yarn add nodemon  -D // reinicia o servidor quando detecta uma modificação no código
 4 - yarn add knex // utilizado para realizar as qury builder, abordagem diferente do select * from
 5 - yarn add sqlite3 // drive do banco sqlite
-6 - npx knex init // cria o arquivo de configurações de acesso ao banco de dados escolhido
-7 - yarn add cors 
-8 - yarn add celebrate // trabalha com as validações de nome, email, etc...
-9 - yarn add jest // framework para testes
+6 - yarn add cors 
+7 - yarn add celebrate // trabalha com as validações de nome, email, etc...
+8 - yarn add jest -D// framework para testes
+9 - yarn add cross-env //cria uma variavel ambiente, exemplo no package.json
+10 - yarn add supertest -D // lib que faz chamadas na api para teste

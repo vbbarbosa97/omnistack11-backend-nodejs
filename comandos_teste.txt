@@ -3,3 +3,8 @@
   -> node
   -> N
   -> Y
+
+// teste de integração testam uma rota inteira
+// teste unicos testam pedaços isolados de um codigo
+
+2 - yarn test // encontra o arquivo de test e executa
